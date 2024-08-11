@@ -1,0 +1,3 @@
+# Basic Python
+ประกอบการเรียนการสอน
+Supphakon
